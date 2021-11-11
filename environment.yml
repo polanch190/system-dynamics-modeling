@@ -1,0 +1,12 @@
+name: system-dynamics-modeling
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - pandas
+  - pysd
+  - geopandas
+  - pandas
+  - gdal
+  - folium

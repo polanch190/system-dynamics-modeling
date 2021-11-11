@@ -1,7 +1,0 @@
-pysd
-matplotlib
-numpy
-geopandas
-pandas
-gdal
-folium
