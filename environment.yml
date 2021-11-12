@@ -7,4 +7,3 @@ dependencies:
   - pandas
   - pysd=1.11.0
   - pandas
-  - folium
