@@ -1,6 +1,6 @@
 # system-dynamics-modeling
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/polanch190/system-dynamics-modeling/HEAD?labpath=Wetland_github%2FSystem%20Dynamics%20Modeling%2C%20An%20Ecological%20Simulation%20Modeling%20Example.ipynb)
+**Click here for a live notebook**: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/polanch190/system-dynamics-modeling/HEAD?labpath=Wetland_github%2FSystem%20Dynamics%20Modeling%2C%20An%20Ecological%20Simulation%20Modeling%20Example.ipynb)
 
 Ever wonder if you could model the behavior of complicated systems such as an
 ecosystem?
